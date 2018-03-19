@@ -1,4 +1,4 @@
-# Static Comp 2 - Alex Bonder - (FE Mod 2)
+# Static Comp 2 - Alex Bonder - (FE Mod 1)
 
 ## Synopsis
 
